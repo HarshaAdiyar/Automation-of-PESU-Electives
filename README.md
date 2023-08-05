@@ -35,4 +35,4 @@ here it will offer fallowing options to students
           ___ Check Allotment
 
 
-As if now this application is static with respective to adding and removeing the electives and faculties we can try to impliment add and remove option dynamially.
+As if now this application is static with respect to adding and removeing the electives and faculties we can try to impliment add and remove option dynamially.
